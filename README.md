@@ -1,4 +1,5 @@
 
+<<<<<<< HEAD
 # 👋 Howdy There! I'm Michael West - aka [mjhwest89](https://mjhwest.github.io/Michael-West-Portfolio/)
 
 ## I'm an aspiring web developer from Australia. 
@@ -17,3 +18,10 @@ But i am continuously looking to learn new skills and languages.
 ![Michael West's GitHub stats](https://github-readme-stats.vercel.app/api?username=mjhwest&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mjhwest&layout=compact)](https://github.com/mjhwest/github-readme-stats)
+=======
+Howdy! 
+
+My name is M
+
+
+>>>>>>> 2a2b0ff0632ed31a6eb002c4f59dc48ec06a85dc
